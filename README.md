@@ -3,7 +3,7 @@
 
 Future Scope:
 
-1. Teacher can Add Student Marks,Attendance, Assignment, videos
+1. Teacher can Add Student's Marks,Attendance, Assignment etc.
 2. Student can also apply for leave via portals
 3. Parent's can see progress of their Student on portals
 4. Also we can also add Notification functionality (Mail / SMS)
